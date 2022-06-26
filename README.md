@@ -34,6 +34,18 @@
 ### 4. Delete Post:
 <p> When the user will want to delete the post with a given pk only that key will get delete but if an author is removed all his/her work will also get deleted from the site. </p>
 
+## Installation Process💻:
+#### Download the prerequisites(Windows):
+```shell
+pip install -r requirements.txt
+```
+---
+#### Run the project:
+```shell
+python manage.py runserver localhost:8000
+```
+---
+
 ## Future Features 🏫:
 1. User Avatar
 2. Billing/Payment
